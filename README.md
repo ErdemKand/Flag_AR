@@ -8,7 +8,6 @@ Ubuntu 24.04 (Noble Numbat) can present compatibility issues with MediaPipe due 
 
 ## Prerequisites
 
-- Ubuntu 24.04
 - Docker
 - Unity 2022.3.62f1
 - Webcam
